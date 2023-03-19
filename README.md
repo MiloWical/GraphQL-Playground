@@ -1,4 +1,4 @@
-# GraphQL-Playground
+# GraphQL Sandbox
 
 ## Bakery Demo
 
